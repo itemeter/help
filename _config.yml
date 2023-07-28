@@ -1,10 +1,8 @@
-title: Help Center
+title: itemeter · Help Center
 description: Knowledge base for itemeter app users
 theme: just-the-docs
-
-logo: "/assets/images/logo.png"
 
 url: https://help.itemeter.com
 
 aux_links:
-  Home page: https://itemeter.com
+  Visit main site: https://itemeter.com
