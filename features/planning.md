@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Guidance
+title: Planning
+parent: Features
 nav_order: 2
 ---
 
-# Planning list
