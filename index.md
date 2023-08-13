@@ -11,4 +11,4 @@ The app offers 14 days free trial. After that period, you must subscribe to cont
 
 ### How much does it cost?
 
-The app offers only subscription pricing model. You can pay as little as $0.99 for one month of usage, or $9.99 for one year of usage (save 15%).
+The app only offers subscription pricing model at the moment. You can pay as little as $0.99 for one month of usage, or $9.99 for one year of usage (save 15%).
